@@ -1,9 +1,11 @@
+//  /*
 //
-//  TimerandonReceiveApp.swift
-//  TimerandonReceive
+//  Project: TimerandonReceive
+//  File: TimerandonReceiveApp.swift
+//  Created by: Elaidzha Shchukin
+//  Date: 09.11.2023
 //
-//  Created by Elaidzha Shchukin on 09.11.2023.
-//
+//  */
 
 import SwiftUI
 
