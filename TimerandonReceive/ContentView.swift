@@ -41,7 +41,7 @@ struct ContentView: View {
             .ignoresSafeArea()
             
             Text(timeRemaining)
-                .font(.system(size: 50, weight: .bold, design: .monospaced))
+                .font(.system(size: 50, weight: .bold, design: .serif))
                 .foregroundStyle(.white)
                 .lineLimit(1)
                 .minimumScaleFactor(0.1)
